@@ -19,6 +19,8 @@ ul {
 
 li {
   float: left;
+  font-family: "Sawarabi Mincho", serif;
+  letter-spacing: 0.2px;
 }
 
 li a {
@@ -66,7 +68,7 @@ i{
 }
 img{
 box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.2);
-border:10px solid rgb(245, 245, 58);
+border:10px solid rgb(241, 241, 82);
 border-radius: 2px;
 
 width: 250px;
