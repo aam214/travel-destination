@@ -1,5 +1,4 @@
 .body{
-
 font-optical-sizing: auto;
 font-weight: 400;
 font-style: normal;
@@ -12,17 +11,15 @@ color: white;
 .header{
 margin: 0 auto;
 display: block;
-margin-top: -120px;
+margin-top: -100px;
 text-align: center;
 font-family: "Sawarabi Mincho", serif;
 font-weight: 400;
 font-style: normal;
-
 border: 5px solid white;
 max-width: 1000px;
 }
 .heading{
- 
   font-size: 110px;
   letter-spacing: 4px;
 }
@@ -32,9 +29,7 @@ max-width: 1000px;
 }
 .heading, .subheading{
   color: white;
- 
 }
-
 img{
   border: 20px solid rgb(245, 245, 58);
   border-radius: 2px;
@@ -42,11 +37,14 @@ img{
 .statue{
   margin-left: 1200px;
   transform: rotate(-8deg);
-  margin-top: 20px;
-text-align: end;
 }
 .ruins{
   margin-top: -200px;
-  margin-left: 20px;
+float: left;
+margin-left: 20px;
   transform: rotate(5deg);
+}
+.cenote{
+float: right;
+  transform: rotate(-10deg);
 }
